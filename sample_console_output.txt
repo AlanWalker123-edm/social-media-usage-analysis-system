@@ -1,0 +1,24 @@
+Rows loaded: 30
+Rows after validation: 30
+Rows removed during validation: 0
+
+=== SOCIAL MEDIA USAGE ANALYSIS ===
+Number of records: 30
+Average daily usage: 3.37 hours
+Average sleep: 7.01 hours
+Average study time: 5.17 hours
+Most frequently recorded platform: Instagram
+
+Average daily usage by platform:
+Snapchat     4.93
+Instagram    4.76
+YouTube      3.24
+WhatsApp     2.32
+Facebook     2.20
+LinkedIn     1.37
+
+Correlation with daily usage (descriptive only):
+Usage vs sleep: -0.964
+Usage vs study: -0.960
+
+Analysis completed successfully.
