@@ -68,4 +68,4 @@ The Social Media Usage Analysis System demonstrates a reproducible introductory 
 Install dependencies with `pip install -r requirements.txt`, then run `python main.py`.
 
 ## 13. Repository
-Add the public GitHub repository URL here after creating and uploading the project.
+https://github.com/AlanWalker123-edm/social-media-usage-analysis-system
